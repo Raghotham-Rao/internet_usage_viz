@@ -4,6 +4,7 @@ includes/
 Lib/
 Scripts/
 share/
+__pycache__/
 pyvenv.cfg
 *.ipynb
 data_points.js
