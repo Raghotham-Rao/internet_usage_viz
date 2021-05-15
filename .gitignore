@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+.ipynb_checkpoints/
+includes/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+*.ipynb
+data_points.js
+data.csv
